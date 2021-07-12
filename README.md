@@ -7,6 +7,8 @@ If anyone is intrested in this challenge you can follow me. In this challenge I 
 ### Day 1 - Drum Kit
 ![Drum Kit](./project-imgs/day-1.png)
 
+### Day 2 - Clock
+![Clock](./project-imgs/day-2.png)
 
 <hr>
 
