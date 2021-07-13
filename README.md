@@ -10,6 +10,8 @@ If anyone is intrested in this challenge you can follow me. In this challenge I 
 ### Day 2 - Clock
 ![Clock](./project-imgs/day-2.png)
 
+### Day 3 - CSS Variables
+![CSS Variables](./project-imgs/day-3.png)
 <hr>
 
 #### Suggest me some more ideas: [click here][form]
