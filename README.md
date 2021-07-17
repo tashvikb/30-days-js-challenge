@@ -14,6 +14,10 @@ If anyone is intrested in this challenge you can follow me. In this challenge I 
 ![CSS Variables](./project-imgs/day-3.png)
 <hr>
 
+### Day 4 - Flex Box Gallery
+![CSS Variables](./project-imgs/day-4.png)
+<hr>
+
 #### Suggest me some more ideas: [click here][form]
 
 <hr>
